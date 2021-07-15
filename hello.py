@@ -9,4 +9,6 @@ def multiply(x, y):
     return x * y
 
 
-print(add(1, 1))
+def minus(x, y):
+    """This is a minus function"""
+    return x - y
